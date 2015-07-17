@@ -28,6 +28,8 @@ Some drawing examples come from the [Processing](https://processing.org/referenc
 
 You now can load the resulting SVG with a browser from `static/index.html`, or, you can open the resulting SVG in e.g. Inkscape.
 
+<img src="docs/example1.png" />
+
 # license
 
 MIT
