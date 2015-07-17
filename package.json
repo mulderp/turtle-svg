@@ -1,0 +1,17 @@
+{
+  "name": "turtle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Mulder",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^11.0.0",
+    "jsdom": "^3.1.2",
+    "read-only-stream": "^1.1.1",
+    "svg-create-element": "^1.0.0"
+  }
+}
